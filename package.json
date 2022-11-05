@@ -1,0 +1,27 @@
+{
+  "name": "open-graph-parse",
+  "version": "1.0.0",
+  "description": "HTML parsing for open-graph meta.",
+  "main": "lib/main.js",
+  "types": "types",
+  "author": "nobu-sh <chat@nobu.sh>",
+  "license": "MIT",
+  "keywords": [
+    "open",
+    "graph",
+    "opengraph"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nobu-sh/open-graph-parse.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nobu-sh/open-graph-parse/issues"
+  },
+  "homepage": "https://github.com/nobu-sh/open-graph-parse#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "node-fetch": "^2.6.7",
+    "validator": "^13.7.0"
+  }
+}
