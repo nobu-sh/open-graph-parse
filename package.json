@@ -1,6 +1,6 @@
 {
   "name": "open-graph-parse",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "HTML parsing for open-graph meta.",
   "main": "lib/main.js",
   "types": "types",
@@ -21,7 +21,9 @@
   "homepage": "https://github.com/nobu-sh/open-graph-parse#readme",
   "dependencies": {
     "cheerio": "^1.0.0-rc.12",
-    "node-fetch": "^2.6.7",
     "validator": "^13.7.0"
+  },
+  "devDependencies": {
+    "node-fetch": "^2.6.7"
   }
 }
