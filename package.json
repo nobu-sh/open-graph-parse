@@ -11,6 +11,10 @@
     "graph",
     "opengraph"
   ],
+  "files": [
+    "types",
+    "lib",
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/nobu-sh/open-graph-parse.git"
